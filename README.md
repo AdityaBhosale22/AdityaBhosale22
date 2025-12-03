@@ -1,55 +1,50 @@
-## Hi, I'm Aditya Bhosale 👋
+# Hi there, I'm Aditya Bhosale! 👋
 
-# 💫 About Me:
-Hi there! I'm a tech enthusiast diving deep into web development and competitive programming.<br>🌱 I'm currently learning Full Stack Web Development and Data Structures & Algorithms in C++<br>💻 I'm currently working on web projects using React, Node.js, and Express<br>🤝 I'm looking to collaborate on web apps and C++ based DSA problems<br>❓ I'm looking for help with optimizing C++ algorithms and backend architecture<br>💬 Ask me about JavaScript, Express.js, or DSA in C++<br>😄 Fun fact: I enjoy turning coding bugs into learning moments (and coffee into code)!
+### 🚀 Software Developer | Full Stack Enthusiast | Constant Learner
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityyaxb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabhosale22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabhosale4388@gmail.com) 
-
-# 💻 Tech Stack:
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,python,nodejs,express&perline=7)](https://skillicons.dev)
-<!-- Custom SVGs for C and C++ -->
-<br/><br/>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaBhosale22&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaBhosale22&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhosale22&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[cite_start]I am a Computer Science Engineering student specializing in Data Science based in **Mumbai**[cite: 4, 44]. I have a strong passion for building scalable web systems and solving complex problems through code. [cite_start]As a dedicated **learner**, I am constantly exploring new technologies in AI-driven development and backend architecture[cite: 6, 17, 18].
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaBhosale22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ Current Focus
+* [cite_start]**Data Structures & Algorithms in C++**: I am currently honing my problem-solving skills and logic building by solving DSA problems in C++[cite: 10, 16].
+* [cite_start]**Backend Engineering**: Designing robust RESTful APIs and scalable cloud deployments[cite: 17].
+
+---
+
+### 🛠️ Tech Stack
+
+* [cite_start]**Languages**: C++, Python, JavaScript [cite: 10]
+* [cite_start]**Frontend**: React.js, Tailwind CSS, HTML5, CSS3 [cite: 12]
+* [cite_start]**Backend**: Node.js, Express.js, REST APIs [cite: 13]
+* [cite_start]**Databases & Cloud**: MongoDB, MySQL, Firebase, Appwrite, Cloudinary [cite: 14]
+* [cite_start]**Tools**: Git, GitHub, Postman, VS Code [cite: 15]
+
+---
+
+### 📂 Featured Projects
+
+**🎥 PlayGrid (Real-Time Media Streaming Backend)**
+* Architected a scalable backend for video hosting with real-time uploads.
+* [cite_start]Reduced API response time by **30%** via optimized MongoDB queries[cite: 31].
+* [cite_start]*Tech:* Node.js, Express, MongoDB, Cloudinary, JWT[cite: 35].
+
+**📝 Blog Nest (Cloud-Powered Blogging Platform)**
+* A full-featured blogging platform with responsive UI and secure authentication.
+* [cite_start]Improved performance by **30%** through optimized state updates[cite: 40].
+* [cite_start]*Tech:* React, Redux Toolkit, Tailwind CSS, Appwrite[cite: 41].
+
+---
+
+### 💼 Experience
+
+**Web Developer Intern | MSS PowerTech Pvt. Ltd.** *(Jan 2024 - June 2024)*
+* [cite_start]Built a real-time admin dashboard to visualize voltage data, improving monitoring efficiency by **50%**[cite: 20, 24].
+
+---
+
+### 📫 Connect with Me
+
+* [cite_start]📧 **Email**: adityabhosale4388@gmail.com [cite: 2]
+* [cite_start]🔗 **LinkedIn**: [Aditya Bhosale](https://linkedin.com/in/adityabhosale22) [cite: 3]
+* [cite_start]💻 **GitHub**: [Aditya Bhosale22](https://github.com/adityabhosale22) [cite: 3]
