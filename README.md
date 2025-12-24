@@ -54,7 +54,7 @@ I use a modern stack to build production-ready applications.
 
 Here are a few things I've been working on recently:
 
-#### 🔐 **[Next Auth Pro](https://github.com/AdityaBhosale22/fusioncast)**
+#### 🔐 **[Next Auth Pro](https://github.com/AdityaBhosale22/nextjs-auth.git)**
 *A production-ready authentication system built for scalability and security.*
 * **Tech:** Next.js, TypeScript, MongoDB, Zod, Tailwind CSS.
 * **Highlights:** Implemented secure JWT-based auth with HTTP-only cookies, password recovery flows, and type-safe API validation using Zod.
