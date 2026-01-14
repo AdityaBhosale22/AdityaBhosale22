@@ -6,7 +6,7 @@
   <h1 align="center">Hi there, I'm Aditya Bhosale! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Animated Waving Hand" width="30" height="30" /></h1>
   
   <p align="center">
-    <b>Software Developer | Full Stack Enthusiast | Data Science Student</b>
+    <b>Software Developer | Full Stack Enthusiast | Data Science Student </b>
   </p>
 
   <p align="center">
