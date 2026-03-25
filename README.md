@@ -54,15 +54,20 @@ I use a modern stack to build production-ready applications.
 
 Here are a few things I've been working on recently:
 
-#### 🔐 **[Next Auth Pro](https://github.com/AdityaBhosale22/nextjs-auth.git)**
-*A production-ready authentication system built for scalability and security.*
-* **Tech:** Next.js, TypeScript, MongoDB, Zod, Tailwind CSS.
-* **Highlights:** Implemented secure JWT-based auth with HTTP-only cookies, password recovery flows, and type-safe API validation using Zod.
+#### 🚀 **[DevApply](https://github.com/AdityaBhosale22/devapply.git)**
+*A production-style AI SaaS platform designed to optimize developer job applications.*
+* **Tech:** React, Node.js, Express.js, PostgreSQL, Clerk, OpenAI, Tailwind CSS.
+* **Highlights:** Built a usage-based credit system with middleware enforcement and integrated AI workflows for resume analysis, cover letter generation, and job fit evaluation.
 
 #### 🎥 **[FusionCast](https://github.com/AdityaBhosale22/fusioncast)**
 *A comprehensive backend for a social content platform.*
 * **Tech:** Node.js, Express.js, MongoDB, Cloudinary.
 * **Highlights:** Built RESTful APIs for video streaming and personalized feeds, optimizing performance by 30% using efficient MongoDB aggregation pipelines.
+
+#### 🔐 **[Next Auth Pro](https://github.com/AdityaBhosale22/nextjs-auth.git)**
+*A production-ready authentication system built for scalability and security.*
+* **Tech:** Next.js, TypeScript, MongoDB, Zod, Tailwind CSS.
+* **Highlights:** Implemented secure JWT-based auth with HTTP-only cookies, password recovery flows, and type-safe API validation using Zod.
 
 ---
 
