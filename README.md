@@ -1,80 +1,216 @@
 <div align="center">
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome GIF" width="600"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650"/>
+
+# Hey 👋 I'm Aditya Bhosale
+
+### Full Stack Developer • Open Source Contributor • AI Builder
+
+> Building software that solves real problems, one commit at a time.
+
+<p align="center">
+I enjoy building scalable web applications, experimenting with AI, contributing to open source,
+and turning ideas into products people actually use.
 </p>
 
-  <h1 align="center">Hi there, I'm Aditya Bhosale! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Animated Waving Hand" width="30" height="30" /></h1>
-  
-  <p align="center">
-    <b>Software Developer | Full Stack Enthusiast | Data Science Student </b>
-  </p>
+<p align="center">
+<a href="https://linkedin.com/in/adityabhosale22">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/adityabhosale22">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:adityabhosale4388@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://x.com/adityyaxb">
-      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
-    </a>
-  </p>
+<a href="mailto:adityabhosale4388@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/adityyaxb">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AdityaBhosale22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a **Computer Science Engineering** student specializing in **Data Science** at the University of Mumbai. I have a strong passion for building scalable web systems and solving complex problems through code. As a dedicated learner, I am constantly exploring new technologies in AI-driven development and backend architecture.
+I'm a **Computer Science graduate (2026)** from the **University of Mumbai** with a passion for building products that combine **great user experience, scalable backend architecture, and AI**.
 
-### ⚡ Current Focus
+I love working across the stack from crafting beautiful frontend experiences to designing production-ready backend systems and APIs.
 
-* **Sharpening DSA:** Solving complex **Data Structures & Algorithms**.
-* **Modern Frontend:** Building interactive, responsive interfaces using **React.js**, **Next.js**, and **Tailwind CSS**.
-* **Robust Backend:** Designing scalable architectures with **Node.js & Express** and implementing secure authentication flows.
-* **Cloud Engineering:** Learning **AWS deployments** and building production-grade data pipelines.
----
-
-### 🛠️ Tech Stack & Skills
-
-I use a modern stack to build production-ready applications.
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-003B57?style=flat-square&logo=mysql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) |
-| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
+Outside of coding you'll usually find me:
+- 🌱 Learning something new every week
+- 🚀 Contributing to Open Source
+- ☕ Reading about startups & product engineering
+- 💡 Building AI SaaS ideas just for fun
 
 ---
 
-### 🚀 Recent Projects
+# 🚀 Currently Exploring
 
-Here are a few things I've been working on recently:
+- 🧠 Advanced Data Structures & Algorithms
+- ⚛️ React, Next.js & modern frontend architecture
+- ⚙️ Scalable Backend Engineering with Node.js
+- 🤖 AI-powered applications using LLMs
+- ☁️ AWS, Docker & production deployments
+- 🌍 Open Source Contributions
 
-#### 🚀 **[DevApply](https://github.com/AdityaBhosale22/devapply.git)**
-*A production-style AI SaaS platform designed to optimize developer job applications.*
-* **Tech:** React, Node.js, Express.js, PostgreSQL, Clerk, OpenAI, Tailwind CSS.
-* **Highlights:** Built a usage-based credit system with middleware enforcement and integrated AI workflows for resume analysis, cover letter generation, and job fit evaluation.
+---
 
-#### 🎥 **[FusionCast](https://github.com/AdityaBhosale22/fusioncast)**
-*A comprehensive backend for a social content platform.*
-* **Tech:** Node.js, Express.js, MongoDB, Cloudinary.
-* **Highlights:** Built RESTful APIs for video streaming and personalized feeds, optimizing performance by 30% using efficient MongoDB aggregation pipelines.
+# 🛠 Tech Stack
 
-#### 🔐 **[Next Auth Pro](https://github.com/AdityaBhosale22/nextjs-auth.git)**
-*A production-ready authentication system built for scalability and security.*
-* **Tech:** Next.js, TypeScript, MongoDB, Zod, Tailwind CSS.
-* **Highlights:** Implemented secure JWT-based auth with HTTP-only cookies, password recovery flows, and type-safe API validation using Zod.
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | C++, JavaScript, Python, SQL |
+| **Frontend** | React.js, Next.js, Tailwind CSS, HTML, CSS |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Database** | PostgreSQL, MongoDB, Firebase |
+| **Cloud & DevOps** | AWS, GitHub Actions |
+| **Tools** | Git, Postman, VS Code, Cloudinary |
+
+---
+
+# 🚀 Featured Projects
+
+## 🚀 [DevApply](https://github.com/AdityaBhosale22/devapply)
+
+> **An AI-powered SaaS platform that helps developers land better jobs.**
+
+**Tech:** React • Node.js • PostgreSQL • Clerk • OpenAI • TailwindCSS
+
+✨ Features
+
+- AI Resume Review
+- AI Cover Letter Generator
+- Job Match Analysis
+- Credit-based AI System
+- Secure Authentication
+- Beautiful Dashboard
+
+---
+
+## 💼 [HirePilot AI](https://github.com/AdityaBhosale22/hirepilot-ai)
+
+> **An AI recruitment platform that streamlines hiring for recruiters and job seekers.**
+
+**Tech:** React • Node.js • Express • PostgreSQL • Prisma • Gemini AI
+
+✨ Features
+
+- AI Resume Analysis
+- Recruiter Dashboard
+- Candidate Dashboard
+- Company & Job Management
+- Resume Upload
+- Smart Hiring Workflow
+- Role-based Authentication
+
+---
+
+## 🎥 [FusionCast](https://github.com/AdityaBhosale22/fusioncast)
+
+> **A scalable backend powering a modern video sharing platform.**
+
+**Tech:** Node.js • Express • MongoDB • Cloudinary
+
+✨ Features
+
+- REST APIs
+- JWT Authentication
+- Video Streaming
+- Playlists
+- Subscriptions
+- Optimized Aggregation Pipelines
+
+---
+
+## 🔐 [Next Auth Pro](https://github.com/AdityaBhosale22/nextjs-auth)
+
+> **Production-ready authentication starter built with Next.js.**
+
+**Tech:** Next.js • TypeScript • MongoDB • Zod
+
+✨ Features
+
+- JWT Authentication
+- Password Recovery
+- Email Verification
+- HTTP-only Cookies
+- Type-safe APIs
+
+---
+# 🌍 Open Source Journey
+
+I enjoy collaborating with developers around the world and contributing to projects that are used by thousands of people.
+
+### 🚀 Merged Pull Requests
+
+| Repository | Contribution |
+|------------|--------------|
+| **[Career-Ops](https://github.com/Prime-Software/career-ops)** | Backend improvements, provider enhancements, Node.js compatibility, contract fixes |
+| **[Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)** | Backup filename template improvements |
+| **More coming... 🚀** | Always looking for interesting OSS issues |
+
+---
+
+### 💡 What I Like Contributing To
+
+- 🚀 Backend Engineering
+- ⚡ Performance Optimizations
+- 🛠 Bug Fixes
+- 📦 Developer Experience
+- 📚 Documentation
+- 🔥 Feature Development
+
+> Open Source has taught me more than any course ever could.
+
+---
+
+# 📈 What I'm Looking For
+
+I'm always interested in
+
+- 🚀 Open Source Collaboration
+- 💼 Software Engineering Opportunities
+- 🤖 AI & SaaS Projects
+- 🌍 Building products with awesome people
+
+If you're working on something exciting, I'd love to contribute.
+
+---
+
+# 🤝 Let's Connect
+
+Whether you want to discuss software, AI, startups, open source—or just talk about cool tech...
+
+**My inbox is always open.**
+
+Maybe we can even grab a virtual ☕ coffee someday.
+
+<p align="center">
+
+<a href="mailto:adityabhosale4388@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/adityabhosale22">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
-  <p><i>"Constant Learner | Problem Solver"</i></p>
-  <p>
-    <a href="https://github.com/AdityaBhosale22">
-    </a>
-  </p>
+
+### ⭐ Thanks for stopping by!
+
+If you like what I'm building, consider ⭐ starring a repository or reaching out.
+
+**Happy Coding! 🚀**
+
 </div>
